@@ -1,7 +1,5 @@
 package uk.co.greenjam.exceptions;
 
-import java.io.IOException;
-
 public class CreateExceptions {
 
 
